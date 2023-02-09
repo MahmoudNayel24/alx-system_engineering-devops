@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-that is a respiratory for the shell basic 
+0-current_workiing-directory shows the path of current working directory
